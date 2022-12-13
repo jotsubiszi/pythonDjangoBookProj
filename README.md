@@ -1,0 +1,2 @@
+# pythonDjangoBookProj
+sumProjectFromDaBook
